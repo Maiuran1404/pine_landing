@@ -1,10 +1,21 @@
 import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = process.env.RESEND_API_KEY
+  ? new Resend(process.env.RESEND_API_KEY)
+  : null;
 
 export async function POST(request) {
   try {
     const { name, email, message } = await request.json();
+
+    if (!resend) {
+      console.log("Email would have been sent:", { name, email, message });
+      return Response.json({
+        success: true,
+        message:
+          "Email functionality is disabled. Please configure RESEND_API_KEY in .env file.",
+      });
+    }
 
     const data = await resend.emails.send({
       from: "Tailor Studio <onboarding@resend.dev>",
