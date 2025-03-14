@@ -8,33 +8,33 @@ export default function About() {
         <div className="col-md-5 mb-sm-60">
           <div className="about-content">
             <h2 className="section-caption mb-30 mb-xs-10">
-              About Tailor Studio
+              About Pine
             </h2>
             <h3 className="section-title mb-60 mb-sm-30">
-              Making Technology Snabba Fast
+              Connecting Food Lovers Worldwide
             </h3>
             <p className="section-descr mb-60 mb-sm-30">
-              At Tailor Studio, we're obsessed with speed and performance. Our
-              mission is to revolutionize technology by making it blazingly
-              fast. We optimize and accelerate tech products to deliver
-              unparalleled performance for businesses of all sizes.
+              At Pine, we're passionate about bringing food lovers together. Our
+              mission is to create a vibrant community where food enthusiasts can
+              share experiences, discover new restaurants, and connect with fellow
+              foodies who share their culinary interests.
             </p>
           </div>
         </div>
         <div className="col-lg-6 col-xl-5 offset-xl-1">
           <h4 className="h5">Our Mission</h4>
           <p className="text-gray">
-            We believe that speed is the cornerstone of modern technology. Our
-            mission is to revolutionize how businesses operate by optimizing
-            their tech stack for maximum performance. We start by analyzing your
-            current technology and identifying opportunities for acceleration.
+            We believe that food has the power to bring people together. Our
+            mission is to create a platform that makes it easy for food lovers to
+            discover new restaurants, share their experiences, and connect with
+            others who share their passion for great food.
           </p>
           <h4 className="h5">Our Vision</h4>
           <p className="text-gray">
-            We envision a world where technology never slows you down. Through
-            innovative optimization techniques and cutting-edge solutions, we're
-            building a future where every millisecond counts and every
-            interaction is lightning fast.
+            We envision a world where food lovers can easily discover and share
+            their favorite dining experiences. Through our platform, we're building
+            a community where every meal becomes an opportunity to connect and
+            share the joy of food with others.
           </p>
         </div>
       </div>

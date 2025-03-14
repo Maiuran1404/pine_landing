@@ -24,9 +24,9 @@ export async function POST(request) {
   //   }
 
   //   const data = await resend.emails.send({
-  //     from: "Tailor Studio <onboarding@resend.dev>",
+  //     from: "Pine <onboarding@resend.dev>",
   //     to: "maiuran.loganathan@uni.minerva.edu",
-  //     subject: "New Tailoring Appointment Request",
+  //     subject: "New Pine Contact Form Submission",
   //     html: `
   //       <h2>New Contact Form Submission</h2>
   //       <p><strong>Name:</strong> ${name}</p>

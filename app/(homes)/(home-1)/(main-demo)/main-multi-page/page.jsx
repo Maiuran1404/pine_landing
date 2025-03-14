@@ -6,9 +6,9 @@ import Header1Multipage from "@/components/headers/Header1Multipage";
 import { menuItems } from "@/data/menu";
 
 export const metadata = {
-  title: "Tailor Studio - Making Technology Snabba Fast",
+  title: "Pine - Connect Through Food",
   description:
-    "Tailor Studio - Revolutionizing technology with blazing fast solutions and optimized performance.",
+    "Pine - A social platform that brings food lovers together to share experiences, discover new restaurants, and connect with fellow foodies.",
 };
 
 export default function Home1MainDemoMultiPage() {

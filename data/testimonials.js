@@ -54,15 +54,15 @@ export const testimonials2 = [
 
 export const testimonials3 = [
   {
-    text: "Tailor Studio delivered exceptional custom merchandise for our gaming tournaments. Their attention to detail and commitment to quality exceeded our expectations. What truly impressed us was how they seamlessly incorporated our brand values while maintaining their sustainable approach. A partner that delivers premium products with purpose.",
-    author: "Geir Ove",
-    role: "Bitfix Gaming",
+    text: "Pine has completely transformed how I discover new restaurants and connect with fellow food lovers. The platform makes it so easy to share experiences and find amazing places to eat. I've discovered some of my favorite restaurants through the community's recommendations.",
+    author: "Sarah Chen",
+    role: "Food Enthusiast",
     imgSrc: "/assets/images/demo-gradient/user-4.jpg",
   },
   {
-    text: "Working with Tailor Studio has transformed how we approach our branded merchandise. Their sustainable ethos aligns perfectly with our company values, and the quality of their products speaks for itself. From concept to delivery, they've been responsive, creative, and dedicated to ensuring each piece embodies our brand identity while making a positive impact. Our team and clients love wearing these thoughtfully crafted items.",
-    author: "Daniel",
-    role: "Hiero",
+    text: "As a restaurant owner, Pine has been invaluable in helping us connect with food lovers in our community. The platform's focus on authentic experiences and genuine connections has helped us build a loyal customer base and get valuable feedback from our patrons.",
+    author: "Michael Rodriguez",
+    role: "Restaurant Owner",
     imgSrc: "/assets/images/demo-gradient/user-2.jpg",
   },
 ];
@@ -72,22 +72,22 @@ export const testimonials4 = [
     id: 1,
     delay: "0s",
     stars: 4.5,
-    text: "“Really impressed with the service and the results!”",
-    caption: "Rated 4.5 on Trustpilot",
+    text: "The best way to discover new restaurants!",
+    caption: "Rated 4.5 on App Store",
   },
   {
     id: 2,
     delay: "0.15s",
     stars: 4.5,
-    text: "“Excellent service for targeted lead generation.”",
-    caption: "Rated 4.5 on Trustpilot",
+    text: "A must-have app for food lovers",
+    caption: "Rated 4.5 on App Store",
   },
   {
     id: 3,
     delay: "0.3s",
     stars: 4.5,
-    text: "“I have super enjoyed working with Tailor Studio.”",
-    caption: "Rated 4.5 on Trustpilot",
+    text: "Love connecting with fellow foodies!",
+    caption: "Rated 4.5 on App Store",
   },
 ];
 

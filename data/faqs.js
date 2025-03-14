@@ -54,34 +54,28 @@ export const faqDataMain = [
 export const faqs3 = [
   {
     question: "Our Values",
-    answer: `At Tailor Studio, we're guided by three core principles: Quality, Sustainability, 
-            and Social Impact. Every piece we create is a testament to Norwegian craftsmanship, 
-            using only the finest materials sourced from responsible suppliers. We believe in 
-            slow fashion - creating timeless pieces that last, reducing waste, and promoting 
-            conscious consumption. Our commitment to sustainability extends from our choice of 
-            organic fabrics to our eco-friendly packaging and carbon-neutral shipping.`,
+    answer: `At Pine, we're guided by three core principles: Community, Discovery, 
+            and Authenticity. Every feature we build is designed to bring food lovers 
+            together, helping them discover new restaurants and share genuine experiences. 
+            We believe in creating a platform where food enthusiasts can connect meaningfully 
+            and share their culinary journey with others.`,
   },
   {
     question: "Our Impact",
-    answer: `Since our founding in 2019, we've made significant strides in our mission to 
-            combine premium fashion with positive change. Through our giving pledge, 
-            we've supported various initiatives across Norway, from funding environmental 
-            conservation projects in the fjords to establishing educational programs for 
-            underprivileged youth. We've contributed to reforestation efforts, provided 
-            educational opportunities for students, and continuously work to reduce our 
-            carbon footprint through sustainable practices. Every purchase you make 
-            contributes directly to these initiatives, making you part of our journey 
-            towards a better future.`,
+    answer: `Since our founding, we've been working to transform how people connect 
+            through food. Through our platform, we've helped food lovers discover new 
+            restaurants, share experiences, and build meaningful connections. We've 
+            supported local restaurants by helping them reach new customers, and we've 
+            created a vibrant community where food enthusiasts can share their passion 
+            and learn from each other.`,
   },
   {
     question: "Our Process",
-    answer: `Each Tailor Studio piece is crafted with meticulous attention to detail. 
-            We start with design inspiration drawn from Norway's stunning landscapes 
-            and minimalist aesthetic. Our materials are carefully selected from certified 
-            sustainable sources, with a focus on organic cotton, recycled materials, and 
-            innovative eco-friendly fabrics. Every garment is produced in small batches 
-            by skilled artisans who are paid fair wages and work in safe conditions. 
-            We regularly audit our supply chain to ensure it meets our strict ethical 
-            and environmental standards.`,
+    answer: `Each feature on Pine is designed with our community in mind. We start 
+            by understanding what food lovers need to better connect and share their 
+            experiences. Our platform is built to be intuitive and engaging, making 
+            it easy to discover new restaurants, share reviews, and connect with fellow 
+            foodies. We regularly gather feedback from our community to ensure we're 
+            creating the best possible experience for food lovers everywhere.`,
   },
 ];

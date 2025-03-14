@@ -40,13 +40,12 @@ export default function Footer1({ dark = false }) {
               />
             </Link>
             <p>
-              Tailor Studio - Empowering businesses with innovative technology
-              solutions. We turn your ideas into reality with speed and
-              precision.
+              Pine - Connecting food lovers worldwide. Share experiences, discover restaurants,
+              and build meaningful connections through your shared love of food.
             </p>
             <div className="clearlinks">
               <strong>E.</strong>
-              <a href="mailto:contact@snabbatech.com">contact@snabbatech.com</a>
+              <a href="mailto:contact@pine.app">contact@pine.app</a>
             </div>
           </div>
           <div className="col-md-6 text-md-end">
@@ -61,10 +60,10 @@ export default function Footer1({ dark = false }) {
         {/* Footer Text */}
         <div className="row text-gray">
           <div className="col-md-6">
-            <b>© Tailor Studio {new Date().getFullYear()}.</b>
+            <b>© Pine {new Date().getFullYear()}.</b>
           </div>
           <div className="col-md-6 text-md-end clearfix">
-            <b>Based in Tokyo, Japan.</b>
+            <b>Based in San Francisco, CA.</b>
             {/* Back to Top Link */}
             <div className="local-scroll float-end mt-n20 mt-sm-10">
               <a href="#top" className="link-to-top" onClick={scrollToTop}>

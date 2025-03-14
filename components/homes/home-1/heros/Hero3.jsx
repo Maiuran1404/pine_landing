@@ -18,11 +18,11 @@ export default function Hero3() {
                 className="section-caption mb-30 mb-xs-10 wow fadeInUp"
                 data-wow-duration="1.2s"
               >
-                Tailor Studio
+                Pine
               </h2>
               <h1 className="hs-title-1 mb-30">
                 <span className="wow charsAnimIn" data-splitting="chars">
-                  <AnimatedText text="Merch with Soul" />
+                  <AnimatedText text="Connect Through Food" />
                 </span>
               </h1>
               <div className="row">
@@ -32,8 +32,8 @@ export default function Hero3() {
                     data-wow-delay="0.6s"
                     data-wow-duration="1.2s"
                   >
-                    Premium quality merchandise crafted with style and purpose. 
-                    Every purchase supports charitable initiatives while delivering exceptional design.
+                    Discover new restaurants, share food experiences, and connect with fellow food lovers. 
+                    Your journey into the world of culinary delights starts here.
                   </p>
                 </div>
               </div>

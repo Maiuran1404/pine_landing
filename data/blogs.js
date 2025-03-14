@@ -35,7 +35,7 @@ export const blogs2 = [
   {
     id: 4,
     imgSrc: "/assets/newphotos/Recent collabs/Snabba/Tailor-snabba.png",
-    title: "Tailor Studio x Snabba",
+    title: "Pine x Local Food Festival",
     date: "February 21, 2024",
     rellaxSpeed: -1,
     rellaxPercentage: 0.37,
@@ -43,14 +43,14 @@ export const blogs2 = [
   {
     id: 5,
     imageSrc: "/assets/newphotos/Recent collabs/Diaspora/Diaspora.png",
-    title: "Tailor Studio x Diaspora Kids",
+    title: "Pine x Food Truck Rally",
     date: "February 21, 2024",
   },
   {
     id: 6,
     imgSrc:
       "/assets/newphotos/Recent collabs/Bitfix/Can you create a e-sport jersey which is minimalistic, with black and white design, add in som .jpg",
-    title: "Tailor Studio x Bitfix Gaming",
+    title: "Pine x Restaurant Week",
     date: "February 21, 2024",
     rellaxSpeed: 1,
     rellaxPercentage: 0.37,
@@ -208,7 +208,7 @@ export const blogs8 = [
   {
     id: 20,
     imageSrc: "/assets/newphotos/Recent collabs/Snabba/Tailor-snabba.png",
-    title: "Tailor Studio x Snabba",
+    title: "Pine x Local Food Festival",
     date: "February 21, 2024",
     rellaxY: "",
     rellaxSpeed: -1,
@@ -217,7 +217,7 @@ export const blogs8 = [
   {
     id: 21,
     imageSrc: "/assets/newphotos/Recent collabs/Diaspora/Diaspora.png",
-    title: "Tailor Studio x Diaspora Kids",
+    title: "Pine x Food Truck Rally",
     date: "January 30, 2024",
     rellaxY: "",
     rellaxSpeed: 0,
@@ -227,7 +227,7 @@ export const blogs8 = [
     id: 22,
     imageSrc:
       "/assets/newphotos/Recent collabs/Bitfix/Can you create a e-sport jersey which is minimalistic, with black and white design, add in som .jpg",
-    title: "Tailor Studio x Bitfix Gaming",
+    title: "Pine x Restaurant Week",
     date: "Jan 14, 2024",
     rellaxY: "",
     rellaxSpeed: 1,
